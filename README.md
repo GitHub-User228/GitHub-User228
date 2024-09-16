@@ -5,7 +5,7 @@
 
 </div>
 
-Here are the tools and technologies that I have been working with or have worked:
+Here are the tools and technologies that I have been working with or have worked with:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
