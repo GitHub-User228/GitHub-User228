@@ -226,7 +226,13 @@ An implementation of the special tools for Minecraft, which are built on the top
 
 <h1><p align="center"> Kaggle competitions </p></h1>
 
+Here are repositories which are related to Kaggle competitions:
+
 1. <a href="https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales">Predict Future Sales</a>  
 <a href="https://github.com/GitHub-User228/predict_future_sales_kaggle"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
 2. <a href="https://www.kaggle.com/competitions/store-sales-time-series-forecasting">Store Sales - Time Series Forecasting</a>  
 <a href="https://github.com/GitHub-User228/store_sales_time_series_forecasting_kaggle"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
+
+PS: I have competed in a lot more Kaggle competitions, but the corresponding code is somewhere missing on the local machine. Probably, I will redo the coding in the future and publish new repositories.
+
+
