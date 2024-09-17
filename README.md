@@ -48,7 +48,7 @@ Here are the tools and technologies that I have been working with or have worked
 
 This repository contains a custom Extract, Transform, Load (ETL) pipeline that utilizes Docker, PostgreSQL, Python and Cron to model an automatic ETL pipeline. Realty Data from Yandex is automatically parsed and then processed via the pipeline.
 
-### Libaries & Toold utilised
+### Libaries & Tools utilised
 1. Docker
 2. CronJob
 3. Postgres
@@ -67,7 +67,7 @@ This repository contains a custom Extract, Transform, Load (ETL) pipeline that u
 
 An example of how to automate parsing process of news rss feeds (or any news sites with certain modifications) using Cron Jobs and (optionally) proxies, which are also dynamically parsed.
 
-### Libaries & Toold utilised
+### Libaries & Tools utilised
 1. Cronjob
 2. Python
 3. crontab
@@ -83,7 +83,7 @@ An example of how to automate parsing process of news rss feeds (or any news sit
 
 An implementation of the hybrid model for Russian News Sentiment Analysis, which is based on neural networks and stacking approach. The model can be used for predicting the sentiment of news text
 
-### Libaries & Toold utilised
+### Libaries & Tools utilised
 1. PyPI
 2. Python
 3. PyTorch
@@ -100,7 +100,7 @@ An implementation of the hybrid model for Russian News Sentiment Analysis, which
 
 A deep learning application built using FastAPI, Flask and Docker. It allows users to transform images based on specified textual prompts using the frontend service made via Flask. The application leverages state-of-the-art models from Hugging Face to perform image transformations, making it a useful tool for various image processing tasks.
 
-### Libaries & Toold utilised
+### Libaries & Tools utilised
 1. Docker
 2. FastAPI
 3. Flask
@@ -213,7 +213,7 @@ This project is made as a part of the course "Machine Learning Engineer" by Yand
 
 An implementation of the special tools for Minecraft, which are built on the top of mcpi. Can be used for building any photos directly in the game
 
-### Libaries & Toold utilised
+### Libaries & Tools utilised
 1. PyPI
 2. Python
 3. mcpi
