@@ -47,6 +47,25 @@ Here are the tools and technologies that I have been working with or have worked
 
 
 <h1><p align="center"> Pet-projects </p></h1>
+---
+
+<h2><p align="left"> FastAPI ML Microservice Deployment </p></h2>   
+
+This repository covers all steps on how to deploy a ML microservice using FastAPI, Python, Docker and Redis and monitor it via Prometheus and Grafana. The microservice is able to reject requests if there are too many of them, validate an input used by the ML model (e.g. a feature must be within a certain range) and send back a proper response indicating all necessary info about the nature of the error if it occurs.
+
+### Libaries & Tools utilised
+1. Docker
+2. FastAPI
+3. Redis
+4. Prometheus
+5. Grafana
+6. Python
+7. Pydantic
+8. Uvicorn
+
+<a href="https://github.com/GitHub-User228/mle-project-sprint-3-v001 "><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
+
+---
 
 <h2><p align="left"> Automatic ETL Project for Realty Data From Yandex </p></h2>   
 
