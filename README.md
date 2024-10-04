@@ -47,6 +47,7 @@ Here are the tools and technologies that I have been working with or have worked
 
 
 <h1><p align="center"> Pet-projects </p></h1>
+
 ---
 
 <h2><p align="left"> FastAPI ML Microservice Deployment </p></h2>   
