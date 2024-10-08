@@ -216,7 +216,7 @@ This project was made as a part of the course "Machine Learning Engineer" by Yan
 
 This is a project which covers the buisiness problem of improving the key metrics of the model for predicting the value of Yandex Real Estate flats. The goal is to make the training process and other related processes easily repeatable and improve key model metrics that impact the company's business metrics, particularly the increase in successful transactions. MLflow framework is considered in order to run a large number of experiments and ensure reproducibility.
 
-This project is made as a part of the course "Machine Learning Engineer" by Yandex and currrently in development.
+This project is made as a part of the course "Machine Learning Engineer" by Yandex.
 
 ### Libaries & Tools utilised
 1. MLflow
