@@ -146,8 +146,6 @@ A deep learning application built using FastAPI, Flask and Docker. It allows use
 
 This project is designed to give a simple example of how to use Apache Airflow for managing ML workflows based on the telecompany churn dataset stored in a PostgreSQL database. Specifically, it covers how to build an ETL pipeline by utilising DAGs, plugins, hooks and callbacks (to Telegram).
 
-This project was made as a part of the course "Machine Learning Engineer" by Yandex.
-
 ### Libaries & Tools utilised
 1. Docker
 2. Airflow
@@ -167,8 +165,6 @@ This project was made as a part of the course "Machine Learning Engineer" by Yan
 <h2><p align="left"> MLE-DVC </p></h2>   
 
 A simple example of how to use DVC for logging ML models based on the telecompany churn dataset stored in a PostgreSQL database. 
-
-This project was made as a part of the course "Machine Learning Engineer" by Yandex.
 
 ### Libaries & Tools utilised
 1. Docker
@@ -190,8 +186,6 @@ This project was made as a part of the course "Machine Learning Engineer" by Yan
 <h2><p align="left"> ML Project with Airflow and DVC </p></h2>   
 
 This is a project in which both Airflow and DVC are utilised. Airflow is used to automate ETL pipelines, while DVC is used for logging ML models. A dataset is based on realty data from Yandex. The dataset is stored within S3 storage in a PostgreSQL database.
-
-This project was made as a part of the course "Machine Learning Engineer" by Yandex.
 
 ### Libaries & Tools utilised
 1. Docker
@@ -215,8 +209,6 @@ This project was made as a part of the course "Machine Learning Engineer" by Yan
 <h2><p align="left"> MLE MLflow Project </p></h2>   
 
 This is a project which covers the buisiness problem of improving the key metrics of the model for predicting the value of Yandex Real Estate flats. The goal is to make the training process and other related processes easily repeatable and improve key model metrics that impact the company's business metrics, particularly the increase in successful transactions. MLflow framework is considered in order to run a large number of experiments and ensure reproducibility.
-
-This project is made as a part of the course "Machine Learning Engineer" by Yandex.
 
 ### Libaries & Tools utilised
 1. MLflow
