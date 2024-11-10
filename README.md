@@ -41,6 +41,7 @@ Here are the tools and technologies that I have been working with or have worked
 ![LightGBM](https://img.shields.io/badge/LightGBM-778da9?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-778dc9?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge)
+![implicit](https://img.shields.io/badge/implicit-000000?style=for-the-badge&logo=implicit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![transformers](https://img.shields.io/badge/transformers-green?style=for-the-badge&)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logoColor=white)
