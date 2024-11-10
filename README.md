@@ -51,6 +51,24 @@ Here are the tools and technologies that I have been working with or have worked
 
 ---
 
+<h2><p align="left"> Music Recommendation System </p></h2>   
+
+This repository covers the topic on how to build the recommendation system and deploy it as a ML microservice.
+This system works with the data from `Yandex Music` and the goal is to recommend new tracks to the users.
+
+### Libaries & Tools utilised
+1. MLFlow
+2. Spark
+3. Python
+4. Pydantic
+5. scikit-learn
+6. CatBoost
+7. implicit
+
+<a href="https://github.com/GitHub-User228/recommendation_system_service"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
+
+---
+
 <h2><p align="left"> FastAPI ML Microservice Deployment </p></h2>   
 
 This repository covers all steps on how to deploy a ML microservice using FastAPI, Python, Docker and Redis and monitor it via Prometheus and Grafana. The microservice is able to reject requests if there are too many of them, validate an input used by the ML model (e.g. a feature must be within a certain range) and send back a proper response indicating all necessary info about the nature of the error if it occurs.
