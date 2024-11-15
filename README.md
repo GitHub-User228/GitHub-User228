@@ -65,6 +65,12 @@ This system works with the data from `Yandex Music` and the goal is to recommend
 5. scikit-learn
 6. CatBoost
 7. implicit
+8. Docker
+9. FastAPI
+10. Redis
+11. Prometheus
+12. Grafana
+13. Uvicorn
 
 <a href="https://github.com/GitHub-User228/recommendation_system_service"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
 
