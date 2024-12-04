@@ -52,6 +52,34 @@ Here are the tools and technologies that I have been working with or have worked
 
 ---
 
+<h2><p align="left"> Recommendation System in Electronic Commerce </p></h2>   
+
+This repository covers the topic on how to build the recommendation system and deploy it as a ML microservice.
+This system works with the data from [ecommerce-dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset) and the goal is to build a recommendation system that would increase the number of `add_to_cart` events.
+
+### Libaries & Tools utilised
+1. Apache Airflow
+2. MLFlow
+3. Python
+4. NetworkX
+5. Pydantic
+6. scikit-learn
+7. CatBoost
+8. LightGBM
+9. XGBoost
+10. implicit
+11. Docker
+12. FastAPI
+13. Redis
+14. Prometheus
+15. Grafana
+16. Uvicorn
+
+<a href="https://github.com/GitHub-User228/recommendation_system_in_e-commerce"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
+
+---
+
+
 <h2><p align="left"> Music Recommendation System </p></h2>   
 
 This repository covers the topic on how to build the recommendation system and deploy it as a ML microservice.
