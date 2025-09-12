@@ -48,10 +48,9 @@ Here are the tools and technologies that I have been working with or have worked
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-<h1><p align="center"> Pet-projects </p></h1>
+<h1><p align="center"> Internal Projects </p></h1>
 
 ---
-
 
 <h2><p align="left"> TNavigator Data Parser and Manager </p></h2>   
 
@@ -72,6 +71,9 @@ This is a closed repository for now.
 9. click
 10. logging
 
+---
+
+<h1><p align="center"> Pet-projects </p></h1>
 
 ---
 
