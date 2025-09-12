@@ -52,6 +52,29 @@ Here are the tools and technologies that I have been working with or have worked
 
 ---
 
+
+<h2><p align="left"> TNavigator Data Parser and Manager </p></h2>   
+
+This repository represents a python library to work with TNavigator data.
+You will be able to parse certain data and manage it. Optionally, you can
+use this library via cli.
+This is a closed repository for now.
+
+### Libaries & Tools utilised
+1. Python
+2. Numpy
+2. Pandas
+4. Pydantic
+5. Networkx
+6. ecl_data_io
+7. json
+8. yaml
+9. click
+10. logging
+
+
+---
+
 <h2><p align="left"> Recommendation System in Electronic Commerce </p></h2>   
 
 This repository covers the topic on how to build the recommendation system and deploy it as a ML microservice.
@@ -77,27 +100,6 @@ This system works with the data from [ecommerce-dataset](https://www.kaggle.com/
 
 <a href="https://github.com/GitHub-User228/recommendation_system_in_e-commerce"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
 
----
-
-
-<h2><p align="left"> TNavigator Data Parser and Manager </p></h2>   
-
-This repository represents a python library to work with TNavigator data.
-You will be able to parse certain data and manage it. Optionally, you can
-use this library via cli.
-This is a closed repository for now.
-
-### Libaries & Tools utilised
-1. Python
-2. Numpy
-2. Pandas
-4. Pydantic
-5. Networkx
-6. ecl_data_io
-7. json
-8. yaml
-9. click
-10. logging
 
 ---
 
