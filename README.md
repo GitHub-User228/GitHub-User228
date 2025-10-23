@@ -348,6 +348,4 @@ Here are repositories which are related to Kaggle competitions:
 2. <a href="https://www.kaggle.com/competitions/store-sales-time-series-forecasting">Store Sales - Time Series Forecasting</a>  
 <a href="https://github.com/GitHub-User228/store_sales_time_series_forecasting_kaggle"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
 
-PS: I have competed in a lot more Kaggle competitions, but the corresponding code is somewhere missing on the local machine. Probably, I will redo the coding in the future and publish new repositories.
-
 
