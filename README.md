@@ -73,7 +73,7 @@ This is a closed repository for now.
 
 ---
 
-<h2><p align="left"> TNavigator and ML based prediction proxy model </p></h2>   
+<h2><p align="left"> TNavigator and ML based Prediction Proxy Model </p></h2>   
 
 This repository represents a python library to work with a proxy multi model which is based on TNavigator simulator.
 This is a closed repository for now.
