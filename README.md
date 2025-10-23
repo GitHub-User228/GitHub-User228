@@ -73,6 +73,25 @@ This is a closed repository for now.
 
 ---
 
+<h2><p align="left"> TNavigator and ML based prediction proxy model </p></h2>   
+
+This repository represents a python library to work with a proxy multi model which is based on TNavigator simulator.
+This is a closed repository for now.
+
+### Libaries & Tools utilised
+1. Python
+2. Numpy
+2. Pandas
+4. Pydantic
+5. Pyarrow
+6. Matplotlib
+7. Seaborn
+8. yaml
+9. logging
+10. omega_parser
+
+---
+
 <h1><p align="center"> Pet-projects </p></h1>
 
 ---
