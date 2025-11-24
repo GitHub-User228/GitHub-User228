@@ -21,6 +21,7 @@ Here are the tools and technologies that I have been working with or have worked
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Streamlit](https://img.shields.io/badge/streamlit-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF)
 ![S3](https://img.shields.io/badge/S3-003366?style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
@@ -56,18 +57,20 @@ Here are the tools and technologies that I have been working with or have worked
 
 This repository represents a python library to merge and analyze a gas-condensate-oil data in a special format.
 A web-UI based app can be launched via `.bat` file on Windows and `.desktop` on Linux-based systems (requires the installation of the corresponding python library).
+The web-UI is build via `streamlit`
 This is a closed repository for now.
 
 ### Libaries & Tools utilised
 1. Python
-2. openpyxl
-3. Numpy
-4. Pandas
-5. Pydantic
-6. plotly
-7. yaml
-8. click
-9. logging
+2. Streamlit
+3. openpyxl
+4. Numpy
+5. Pandas
+6. Pydantic
+7. plotly
+8. yaml
+9. click
+10. logging
 
 ---
 
