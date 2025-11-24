@@ -52,6 +52,25 @@ Here are the tools and technologies that I have been working with or have worked
 
 ---
 
+<h2><p align="left"> Web-UI-based Gas-Condensate-Oil Data Merger and Analyzer </p></h2>   
+
+This repository represents a python library to merge and analyze a gas-condensate-oil data in a special format.
+A web-UI based app can be launched via `.bat` file on Windows and `.desktop` on Linux-based systems (requires the installation of the corresponding python library).
+This is a closed repository for now.
+
+### Libaries & Tools utilised
+1. Python
+2. openpyxl
+3. Numpy
+4. Pandas
+5. Pydantic
+6. plotly
+7. yaml
+8. click
+9. logging
+
+---
+
 <h2><p align="left"> TNavigator Data Parser and Manager </p></h2>   
 
 This repository represents a python library to work with TNavigator data.
