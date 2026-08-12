@@ -93,8 +93,7 @@ This is a closed repository for now.
 9. click
 10. logging
 
-Check the public mirror of the repo with accessible `README.md` file:  
-<a href="https://github.com/GitHub-User228/omega_parser_public"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
+Check the public mirror of the repo with accessible `README.md` file: <a href="https://github.com/GitHub-User228/omega_parser_public"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
 
 ---
 
