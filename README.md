@@ -84,7 +84,7 @@ This is a closed repository for now.
 ### Libaries & Tools utilised
 1. Python
 2. Numpy
-2. Pandas
+3. Pandas
 4. Pydantic
 5. Networkx
 6. ecl_data_io
@@ -92,6 +92,9 @@ This is a closed repository for now.
 8. yaml
 9. click
 10. logging
+
+Check the public mirror of the repo with accessible `README.md` file:  
+<a href="https://github.com/GitHub-User228/omega_parser_public"><img src='https://img.shields.io/badge/To repository-&#x21A9-blue'></a>
 
 ---
 
